@@ -10,7 +10,10 @@ export const metadata: Metadata = {
   title: "Hanif Aslam Febru Putra | Web & Mobile Developer",
   description:
     "Personal portfolio of Hanif Aslam Febru Putra, a Web and Mobile Developer with a Neo Brutalist design approach",
-  generator: "v0.dev"
+  generator: "v0.dev",
+   icons: {
+    icon: "/finari.png", // Letakkan file ini di folder /public
+  },
 };
 
 export default function RootLayout({
