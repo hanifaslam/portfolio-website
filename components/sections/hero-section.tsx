@@ -53,7 +53,7 @@ export default function HeroSection() {
                 </Button>
               </Link>
               <a
-                href="/sertif/cv-hanif.pdf"
+                href="/sertif/Hanif Aslam F.P_Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
               >
