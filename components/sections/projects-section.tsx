@@ -43,7 +43,7 @@ export default function ProjectsSection() {
       rotation: 1,
       decoratorPosition: "top-left",
       decoratorColor: "electric-blue",
-      image: "/profile.jpeg",
+      image: "/photos/ujian-online.jpg",
       projectUrl: "https://github.com/hanifaslam/aplikasi-ujian-online",
       previewUrl: "https://www.figma.com/file/ujian-online-design",
       previewButtonColor: "bg-white text-black",
