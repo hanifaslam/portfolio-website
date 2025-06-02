@@ -23,7 +23,7 @@ export default function SkillsSection() {
                 className="bg-white border-4 border-black p-6 relative transition-transform duration-300 hover:translate-x-4 hover:-translate-y-2 group "
                 style={{ boxShadow: "8px 8px 0 #000" }}
               >
-                <h3 className="text-2xl font-black mb-6 uppercase transition-transform duration-300 group-hover:translate-x-2 group-hover:-rotate-2">
+                <h3 className="text-2xl font-black mb-6 transition-transform duration-300 group-hover:translate-x-2 group-hover:-rotate-2">
                   Technical Skills
                 </h3>
                 <div className="space-y-5">
@@ -58,7 +58,7 @@ export default function SkillsSection() {
                 className="bg-white border-4 border-black p-6 relative transition-transform duration-300 hover:translate-x-4 hover:-translate-y-2 group"
                 style={{ boxShadow: "8px 8px 0 #000" }}
               >
-                <h3 className="text-2xl font-black mb-6 uppercase transition-transform duration-300 group-hover:translate-x-2 group-hover:-rotate-2">
+                <h3 className="text-2xl font-black mb-6 transition-transform duration-300 group-hover:translate-x-2 group-hover:-rotate-2">
                   Soft Skills
                 </h3>
                 <div className="grid grid-cols-2 gap-4 mb-5">

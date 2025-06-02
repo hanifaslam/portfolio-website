@@ -23,7 +23,7 @@ export default function AboutSection() {
                 className="p-6 bg-white border-4 border-black relative mb-8 transform translate-x-0 md:translate-x-8 transition-transform duration-300 hover:translate-x-4 hover:-translate-y-2"
                 style={{ boxShadow: "8px 8px 0 #000" }}
               >
-                <h3 className="text-2xl font-black mb-4 uppercase">
+                <h3 className="text-2xl font-black mb-4">
                   Education
                 </h3>
                 <div className="space-y-4">
@@ -37,7 +37,7 @@ export default function AboutSection() {
                   </div>
                   <div className="border-l-4 border-electric-blue pl-4 transition-all duration-300 hover:border-l-8 hover:pl-6">
                     <h4 className="font-bold">
-                      Associate Degree Candidate in Computer Science
+                      Associate Degree Candidate in Informatics Engineering
                     </h4>
                     <p className="text-gray-700">
                       Semarang State Polytechnic, 2023 – Present
@@ -53,7 +53,7 @@ export default function AboutSection() {
                 className="p-6 bg-white border-4 border-black relative transform -translate-x-0 md:-translate-y-8 md:translate-x-10 transition-transform duration-300 hover:translate-x-4"
                 style={{ boxShadow: "8px 8px 0 #000" }}
               >
-                <h3 className="text-2xl font-black mb-4 uppercase">
+                <h3 className="text-2xl font-black mb-4">
                   Professional Experience
                 </h3>
                 <ul className="space-y-4">
@@ -61,7 +61,7 @@ export default function AboutSection() {
                     <div className="w-6 h-6 bg-electric-green border-2 border-black flex-shrink-0 mt-1 transition-transform duration-300 hover:rotate-45"></div>
                     <div>
                       <h4 className="font-bold">
-                        Internship – PT. Indonesia Power Semarang PGU
+                        Internship – PT. Indonesia Power Semarang PGU <br /> (Jun, 2021)
                       </h4>
                       <p className="text-gray-700">
                         Assisted technicians with maintenance and calibration
@@ -73,7 +73,7 @@ export default function AboutSection() {
                     <div className="w-6 h-6 bg-electric-blue border-2 border-black flex-shrink-0 mt-1 transition-transform duration-300 hover:rotate-45"></div>
                     <div>
                       <h4 className="font-bold">
-                        Internship – PT. Telkom Akses Semarang
+                        Internship – PT. Telkom Akses Semarang <br />(Oct - Dec, 2021)
                       </h4>
                       <p className="text-gray-700">
                         Managed warehouse materials and supported the
@@ -85,7 +85,7 @@ export default function AboutSection() {
                     <div className="w-6 h-6 bg-hot-red border-2 border-black flex-shrink-0 mt-1 transition-transform duration-300 hover:rotate-45"></div>
                     <div>
                       <h4 className="font-bold">
-                        Work Experience – PT. Sima Agustus Jakarta (Videotron)
+                        Work – PT. Sima Agustus Jakarta <br /> (May 2022 - Apr 2023)
                       </h4>
                       <p className="text-gray-700">
                         Repaired videotron modules and coordinated with

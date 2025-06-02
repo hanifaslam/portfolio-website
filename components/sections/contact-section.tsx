@@ -55,7 +55,7 @@ export default function ContactSection() {
                 <div className="space-y-6">
                   <ContactMethod
                     icon={<Mail className="w-5 h-5" />}
-                    title="Email"
+                    title=""
                     value="hanifaslam.works@gmail.com"
                     linkText="SEND AN EMAIL"
                     href="mailto:hanifaslam.works@gmail.com"
@@ -123,7 +123,7 @@ export default function ContactSection() {
                       name="user_name"
                       required
                       className="w-full px-4 py-3 border-2 border-black focus:outline-none focus:ring-2 focus:ring-electric-green transition-transform duration-300 hover:translate-x-1"
-                      placeholder="YOUR NAME"
+                      placeholder="your name"
                     />
                   </div>
 
@@ -140,7 +140,7 @@ export default function ContactSection() {
                       name="user_email"
                       required
                       className="w-full px-4 py-3 border-2 border-black focus:outline-none focus:ring-2 focus:ring-electric-green transition-transform duration-300 hover:translate-x-1"
-                      placeholder="YOUR EMAIL"
+                      placeholder="your email"
                     />
                   </div>
 
@@ -157,7 +157,7 @@ export default function ContactSection() {
                       rows={5}
                       required
                       className="w-full px-4 py-3 border-2 border-black focus:outline-none focus:ring-2 focus:ring-electric-green transition-transform duration-300 hover:translate-x-1"
-                      placeholder="YOUR MESSAGE"
+                      placeholder="your message"
                     ></textarea>
                   </div>
 

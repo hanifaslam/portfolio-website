@@ -15,7 +15,7 @@ export default function ProjectsSection() {
       rotation: -1,
       decoratorPosition: "top-right",
       decoratorColor: "electric-green",
-      image: "/profile.jpeg",
+      image: "/photos/fintrack.png",
       previewUrl:
         "https://www.figma.com/proto/lVOTWn8nuIUSIsZ0hsA5p4/finTrack?node-id=205-262&starting-point-node-id=0%3A291&t=VuMldQ0DSiPbqeV1-1"
     },
