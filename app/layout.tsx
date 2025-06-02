@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     "Personal portfolio of Hanif Aslam Febru Putra, a Web and Mobile Developer with a Neo Brutalist design approach",
   generator: "v0.dev",
    icons: {
-    icon: "photos/favicon.png", // Letakkan file ini di folder /public
+    icon: "photos/favicon-2.png", // Letakkan file ini di folder /public
   },
 };
 
